@@ -10362,6 +10362,7 @@ a:focus {
 .sidebar .nav-item .collapsing {
   display: none;
   transition: none;
+
 }
 
 .sidebar .nav-item .collapse .collapse-inner,
