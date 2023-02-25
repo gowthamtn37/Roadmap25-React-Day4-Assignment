@@ -1,3 +1,5 @@
+import pic1 from "../img/undraw_rocket.svg";
+
 export function Sidebar() {
   return (
     <div>
@@ -183,7 +185,8 @@ export function Sidebar() {
         <div className="sidebar-card d-none d-lg-flex">
           <img
             className="sidebar-card-illustration mb-2"
-            src="./img/undraw_rocket.svg"
+            //src="./img/undraw_rocket.svg"
+            src={pic1}
             alt="..."
           />
           <p className="text-center mb-2">
