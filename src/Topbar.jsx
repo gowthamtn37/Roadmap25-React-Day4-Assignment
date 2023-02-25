@@ -1,8 +1,7 @@
-import pic0 from "..img/undraw_profile.svg";
-import pic1 from "..img/undraw_profile_1.svg";
-import pic2 from "..img/undraw_profile_2.svg";
-import pic3 from "..img/undraw_profile_3.svg";
-import pic4 from "..img/undraw_posting_photo.svg";
+import pic_1 from "../img/undraw_profile_1.svg";
+import pic_2 from "../img/undraw_profile_2.svg";
+import pic_3 from "../img/undraw_profile_3.svg";
+import pic_0 from "../img/undraw_profile.svg";
 
 export function Topbar() {
   return (
@@ -166,7 +165,7 @@ export function Topbar() {
                   <img
                     className="rounded-circle"
                     //src={"img/undraw_profile_1.svg"}
-                    src={pic1}
+                    src={pic_1}
                     alt="..."
                   />
                   <div className="status-indicator bg-success"></div>
@@ -184,7 +183,7 @@ export function Topbar() {
                   <img
                     className="rounded-circle"
                     //src="img/undraw_profile_2.svg"
-                    src={pic2}
+                    src={pic_2}
                     alt="..."
                   />
                   <div className="status-indicator"></div>
@@ -202,7 +201,7 @@ export function Topbar() {
                   <img
                     className="rounded-circle"
                     //src="img/undraw_profile_3.svg"
-                    src={pic3}
+                    src={pic_3}
                     alt="..."
                   />
                   <div className="status-indicator bg-warning"></div>
@@ -263,7 +262,7 @@ export function Topbar() {
               <img
                 className="img-profile rounded-circle"
                 // src="img/undraw_profile.svg"
-                src={pic0}
+                src={pic_0}
               />
             </a>
             {/* <!-- Dropdown - User Information --> */}

@@ -1,4 +1,5 @@
-import posting_photo from "../img/undraw_posting_photo";
+import posting_photo from "../img/undraw_posting_photo.svg";
+
 export function MainContent() {
   return (
     <div>
