@@ -159,7 +159,7 @@ export function Topbar() {
                 <div className="dropdown-list-image mr-3">
                   <img
                     className="rounded-circle"
-                    src="img/undraw_profile_1.svg"
+                    src={"img/undraw_profile_1.svg"}
                     alt="..."
                   />
                   <div className="status-indicator bg-success"></div>
