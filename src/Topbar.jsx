@@ -1,3 +1,4 @@
+import React from "react";
 import pic_1 from "../img/undraw_profile_1.svg";
 import pic_2 from "../img/undraw_profile_2.svg";
 import pic_3 from "../img/undraw_profile_3.svg";

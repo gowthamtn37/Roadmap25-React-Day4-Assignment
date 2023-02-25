@@ -1,3 +1,4 @@
+import React from "react";
 import pic_rocket from "../img/undraw_rocket.svg";
 
 export function Sidebar() {
